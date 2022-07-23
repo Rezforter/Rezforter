@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rezforter
-- 🌱 ’m interested in programming
+- 🌱 I’m interested in programming
 - 👀 I’m currently learning how to use GitHub :)
 
 <!---
